@@ -1,1 +1,1 @@
-![](chat.gif)
+![](yelp.gif)
